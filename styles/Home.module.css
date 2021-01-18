@@ -101,6 +101,23 @@ text-align: center;
 color: #FFFFFF;
 }
 
+.badge {
+  position: absolute;
+width: 646px;
+height: 250px;
+left: 397px;
+top: 3569px;
+}
+
+.badge img {
+  position: absolute;
+width: 646px;
+height: 250px;
+left: 397px;
+top: 3569px;
+  
+}
+
 .explain {
   
   position: absolute;
