@@ -9,15 +9,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
+     
+        <p className={styles.title}>
           Welcome to Next.js!
-        </h1>
+        </p>
 
       
    
         </div>
-      </main>
+      
 
       <footer className={styles.footer}>
         <a
