@@ -14,7 +14,7 @@ export default function Home() {
     <img src="/5.png" className={styles.imagens5}/>
     
     <Image
-  src="/public/1.png"
+  src="/1.png"
   alt="Picture of a triangle"
   width={400}
   height={815.93}
