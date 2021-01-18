@@ -1,5 +1,5 @@
 .container {
-  position: fixed;
+  position: relative;
 width: 1500px;
 height: 2500px;
 background: #7C43BD;
