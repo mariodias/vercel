@@ -68,6 +68,24 @@ align-items: center;
 text-align: center;
 
 color: #FFFFFF;
+  
+  .content {
+ position: absolute;
+width: 1263px;
+height: 270px;
+left: 88px;
+top: 2216px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 90px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
 }
 
 .footer {
