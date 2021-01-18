@@ -9,10 +9,11 @@ background: #7C43BD;
 .footer {
   width: 100%;
   height: 100px;
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #FFFFFF;
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #4A0072;
 }
 
 .footer img {
