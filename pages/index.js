@@ -14,9 +14,7 @@ export default function Home() {
           Welcome to Next.js!
         </p>
 
-      
-   
-        </div>
+ 
       
 
       <footer className={styles.footer}>
