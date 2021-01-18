@@ -120,9 +120,10 @@ top: 2800px;
 
 .explain {
   
-  position: absolute;
+  position: relative;
 width: 1289px;
 height: 616px;
+left: 88px;
 
 font-family: Quicksand;
 font-style: normal;
@@ -140,9 +141,10 @@ color: #FFFFFF;
 
 .explain p {
   
-  position: absolute;
+  position: relative;
 width: 1289px;
 height: 616px;
+left: 88px;
 
 font-family: Quicksand;
 font-style: normal;
