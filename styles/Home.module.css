@@ -38,8 +38,18 @@
 }
 
 .title a {
-  color: #FFFFFF;
-  text-decoration: none;
+  position: absolute;
+width: 1025px;
+height: 1080px;
+left: 105px;
+top: 77px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 288px;
+line-height: 360px;
+color: #FFFFFF;
 }
 
 .title a:hover,
