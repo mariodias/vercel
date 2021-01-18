@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
     
     <p className={styles.title}>Mulher Eleita Já!</p>
-    <img src="/1.png" />
+    <img src="/1.png" className={styles.imagens}/>
     
     </div>
   )
