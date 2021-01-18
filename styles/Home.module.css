@@ -6,11 +6,43 @@ background: #7C43BD;
   flex: 1;
 }
 
-.imagens {
+.imagens1 {
 position: absolute;
 width: 400px;
 height: 815.93px;
 left: 120px;
+top: 1253px;
+}
+
+.imagens2 {
+position: absolute;
+width: 400px;
+height: 815.93px;
+left: 320px;
+top: 1253px;
+}
+
+.imagens3 {
+position: absolute;
+width: 400px;
+height: 815.93px;
+left: 520px;
+top: 1253px;
+}
+
+.imagens4 {
+position: absolute;
+width: 400px;
+height: 815.93px;
+left: 720px;
+top: 1253px;
+}
+
+.imagens5 {
+position: absolute;
+width: 400px;
+height: 815.93px;
+left: 920px;
 top: 1253px;
 }
 
