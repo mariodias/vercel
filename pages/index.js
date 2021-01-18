@@ -19,6 +19,8 @@ export default function Home() {
 uma sociedade mais justa e com 
 maior representatividade!</p>
     
+    <div className={styles.line}></div>
+    
     </div>
   )
 }
