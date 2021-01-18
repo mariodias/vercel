@@ -23,7 +23,7 @@ position: absolute;
 width: 400px;
 height: 815.93px;
 left: 120px;
-top: 900px;
+top: 600px;
 z-index: 5;
 }
 
@@ -32,7 +32,7 @@ position: absolute;
 width: 400px;
 height: 815.93px;
 left: 320px;
-top: 900px;
+top: 600px;
 z-index: 4;
 }
 
@@ -41,7 +41,7 @@ position: absolute;
 width: 400px;
 height: 815.93px;
 left: 520px;
-top: 900px;
+top: 600px;
 z-index: 3;
 }
 
@@ -50,7 +50,7 @@ position: absolute;
 width: 400px;
 height: 815.93px;
 left: 720px;
-top: 900px;
+top: 600px;
  z-index: 2;
 }
 
@@ -59,7 +59,7 @@ position: absolute;
 width: 400px;
 height: 815.93px;
 left: 920px;
-top: 900px;
+top: 600px;
   z-index: 1;
 }
 
