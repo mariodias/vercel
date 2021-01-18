@@ -21,6 +21,14 @@ maior representatividade!</p>
     
     <div className={styles.line}></div>
     
+    <p className={styles.explain}>O APP Mulher Eleita já!, permite 
+garantir visibilidade à candidatura de 
+Mulheres para os cargos públicos a 
+nível Municipal, Estadual e Federal, 
+além de permitir acesso ao perfil 
+da candidatas eleitas, estatísticas 
+eleitorais e muito mais.</p>
+    
     </div>
   )
 }
