@@ -9,7 +9,11 @@
 }
 
 .main {
-  background: #7C43BD;
+  position: relative;
+width: 1440px;
+height: 4000px;
+background: #7C43BD;
+  flex: 1;
 }
 
 .footer {
