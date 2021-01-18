@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Testing</title>
+        <title>Mulher Eleita Já!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
