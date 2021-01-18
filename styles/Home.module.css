@@ -68,7 +68,7 @@ top: 600px;
 width: 1263px;
 height: 270px;
 left: 88px;
-top: 1400px;
+top: 1500px;
 
 font-family: Quicksand;
 font-style: normal;
@@ -87,7 +87,7 @@ color: #FFFFFF;
 width: 1263px;
 height: 270px;
 left: 88px;
-top: 1400px;
+top: 1500px;
 
 font-family: Quicksand;
 font-style: normal;
@@ -106,7 +106,7 @@ color: #FFFFFF;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 2800px;
+top: 2400px;
 }
 
 .badge img {
@@ -114,7 +114,7 @@ top: 2800px;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 2800px;
+top: 2400px;
   
 }
 
@@ -131,8 +131,8 @@ font-size: 70px;
 line-height: 87px;
 display: flex;
 align-items: center;
-text-align: center;
-top: 2000px;
+text-align: left;
+top: 1800px;
 
 color: #FFFFFF;
   
@@ -151,8 +151,8 @@ font-size: 70px;
 line-height: 87px;
 display: flex;
 align-items: center;
-text-align: center;
-top: 2000px;
+text-align: left;
+top: 1800px;
 
 color: #FFFFFF;
   
