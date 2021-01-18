@@ -1,7 +1,7 @@
 .container {
   position: relative;
 width: 1500px;
-height: 2500px;
+height: 4000px;
 background: #7C43BD;
   flex: 1;
 }
@@ -68,7 +68,7 @@ top: 600px;
 width: 1263px;
 height: 270px;
 left: 88px;
-top: 900px;
+top: 700px;
 
 font-family: Quicksand;
 font-style: normal;
@@ -87,7 +87,7 @@ color: #FFFFFF;
 width: 1263px;
 height: 270px;
 left: 88px;
-top: 900px;
+top: 700px;
 
 font-family: Quicksand;
 font-style: normal;
