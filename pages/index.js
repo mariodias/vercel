@@ -29,6 +29,8 @@ além de permitir acesso ao perfil
 da candidatas eleitas, estatísticas 
 eleitorais e muito mais.</p>
     
+   <a href="https://play.google.com/store/apps/details?id=com.doxaufpi.mulhereleitaja" target="_blank"> <img src="/google-play-badge.png" /></a>
+    
     </div>
   )
 }
