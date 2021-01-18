@@ -15,6 +15,10 @@ export default function Home() {
     <img src="/4.svg" className={styles.imagens4}/>
     <img src="/5.svg" className={styles.imagens5}/>
     
+    <p className={styles.content}>Vote em Mulheres e ajude a criar
+uma sociedade mais justa e com 
+maior representatividade!</p>
+    
     </div>
   )
 }
