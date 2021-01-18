@@ -5,6 +5,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
     
-    <p className={styles.title}>Hello World!</p></div>
+    <p className={styles.title}>Mulher Eleita Já!</p></div>
   )
 }
