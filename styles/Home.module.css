@@ -33,13 +33,12 @@ background: #7C43BD;
   align-items: center;
 }
 
-.title a {
+.title p {
   position: absolute;
 width: 1025px;
 height: 1080px;
 left: 105px;
 top: 77px;
-
 font-family: Quicksand;
 font-style: normal;
 font-weight: bold;
