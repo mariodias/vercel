@@ -28,11 +28,11 @@ maior representatividade!</p>
     
      <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://github.com/mariodias"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Developed by Mário Dias
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
