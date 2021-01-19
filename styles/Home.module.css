@@ -194,6 +194,11 @@ color: #FFFFFF;
   
 }
 
+.footer a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 
 .title p {
   position: absolute;
