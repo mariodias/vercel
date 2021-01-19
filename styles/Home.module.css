@@ -1,7 +1,7 @@
 .container {
   position: absolute;
 width: 1500px;
-height: 2800px;
+height: 2600px;
 background: #7C43BD;
   flex: 1;
 }
@@ -168,7 +168,7 @@ color: #FFFFFF;
   justify-content: center;
   align-items: center;
   background: #4A0072;
-  top: 2100px;
+  top: 1500px;
 }
 
 .footer img {
