@@ -1,7 +1,7 @@
 .container {
   position: absolute;
 width: 1500px;
-height: 2900px;
+height: 3000px;
 background: #7C43BD;
   flex: 1;
 }
@@ -106,7 +106,7 @@ color: #FFFFFF;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 2700px;
+top: 2550px;
 }
 
 .badge img {
@@ -114,7 +114,7 @@ top: 2700px;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 2700px;
+top: 2550px;
   
 }
 
@@ -172,7 +172,7 @@ font-size: 36px;
 display: flex;
 align-items: center;
 text-align: center;
-top: 2900px;
+top: 2650px;
 color: #FFFFFF;
   
 }
@@ -189,7 +189,7 @@ font-size: 36px;
 display: flex;
 align-items: center;
 text-align: center;
-top: 2900px;
+top: 2650px;
 color: #FFFFFF;
   
 }
