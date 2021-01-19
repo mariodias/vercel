@@ -25,6 +25,8 @@ maior representatividade!</p>
     
    <a href="https://play.google.com/store/apps/details?id=com.doxaufpi.mulhereleitaja" target="_blank"> <img className={styles.badge} src="/google-play-badge.png" /></a>
     
+     <p className={styles.footer}>Developed by Mário Dias.</p>
+    
     </div>
   )
 }
