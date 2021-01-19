@@ -33,7 +33,6 @@ maior representatividade!</p>
           rel="noopener noreferrer"
         >
           Developed by Mário Dias
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
