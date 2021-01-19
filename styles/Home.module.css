@@ -1,6 +1,6 @@
 .container {
   position: absolute;
-width: 1200px;
+width: 1500px;
 height: 2900px;
 background: #7C43BD;
   flex: 1;
@@ -106,7 +106,7 @@ color: #FFFFFF;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 1600px;
+top: 1800px;
 }
 
 .badge img {
@@ -114,7 +114,7 @@ top: 1600px;
 width: 646px;
 height: 250px;
 left: 397px;
-top: 1600px;
+top: 1800px;
   
 }
 
@@ -132,7 +132,7 @@ font-size: 70px;
 line-height: 87px;
 display: flex;
 align-items: center;
-text-align: justify;
+text-align: center;
 top: 1500px;
 
 color: #FFFFFF;
@@ -153,7 +153,7 @@ font-size: 70px;
 line-height: 87px;
 display: flex;
 align-items: center;
-text-align: justify;
+text-align: center;
 top: 1500px;
 
 color: #FFFFFF;
