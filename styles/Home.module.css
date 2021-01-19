@@ -163,16 +163,16 @@ color: #FFFFFF;
 .footer {
   
 position: absolute;
-left: 88px;
+left: 200px;
 
 font-family: Quicksand;
 font-style: normal;
 font-weight: bold;
-font-size: 36px;
+font-size: 56px;
 display: flex;
 align-items: center;
 text-align: center;
-top: 2650px;
+top: 2800px;
 color: #FFFFFF;
   
 }
@@ -180,16 +180,16 @@ color: #FFFFFF;
 .footer p {
   
   position: absolute;
-left: 88px;
+left: 200px;
 
 font-family: Quicksand;
 font-style: normal;
 font-weight: bold;
-font-size: 36px;
+font-size: 56px;
 display: flex;
 align-items: center;
 text-align: center;
-top: 2650px;
+top: 2800px;
 color: #FFFFFF;
   
 }
