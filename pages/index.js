@@ -21,7 +21,7 @@ maior representatividade!</p>
     
     <div className={styles.line}></div>
     
-    <p className={styles.explain}>O APP Mulher Eleita já!, tem como intuíto garantir visibilidade à candidatura de Mulheres para os cargos públicos a nível Municipal, Estadual e Federal, além de permitir acesso ao perfil das candidatas eleitas, estatísticas eleitorais e muito mais.</p>
+    <p className={styles.explain}>O APP Mulher Eleita Já!, tem como intuíto garantir visibilidade à candidatura de Mulheres para os cargos públicos a nível Municipal, Estadual e Federal, além de permitir acesso ao perfil das candidatas eleitas, estatísticas eleitorais e muito mais.</p>
     
    <a href="https://play.google.com/store/apps/details?id=com.doxaufpi.mulhereleitaja" target="_blank"> <img className={styles.badge} src="/google-play-badge.png" /></a>
     
